@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "repo": "bolt.diy",
-  "status": "Not Started",
-  "updatedAt": "2026-10-03T13:05:00Z",
+  "status": "In Progress",
+  "updatedAt": "2026-10-04T13:30:00Z",
   "updatedBy": "aegis-hub",
-  "notes": "Registered in A.E.G.I.S. decentralized system. See prototype-builder Registry and OUTSTANDING_TASKS_GROK.md."
+  "notes": "P1 priority integration bridged on hub (priority-integrations.ts). Full product depth may remain in satellite."
 }
